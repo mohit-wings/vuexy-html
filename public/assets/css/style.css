@@ -1,0 +1,9 @@
+.dt-bootstrap4 > .row:nth-child(2n+1){
+	margin-top: 0.75rem !important;
+	margin-right: 1rem !important;
+	margin-left: 1rem !important;
+}
+
+.table{
+	line-height: 2 !important;
+}
